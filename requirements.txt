@@ -1,0 +1,3 @@
+pandas
+smbus2
+OPi.GPIO
